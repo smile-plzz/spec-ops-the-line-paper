@@ -1,6 +1,9 @@
 # Do You Feel Like a Hero Yet? Narrative Deception, Moral Complicity, Psychological Deterioration, and the Ethics of Play in *Spec Ops: The Line*
 
-**Author:** Academic Research Collaborative in Game Studies & Interactive Narrative  
+**Author:** Md. Ismail Hossain  
+**Affiliation:** Institute of Information Technology (IIT), Jahangirnagar University, Dhaka, Bangladesh  
+**Email:** [ismailhossain013@gmail.com](mailto:ismailhossain013@gmail.com)  
+**Profile & Links:** [Portfolio](https://smile-plzz.github.io/Ismail_Hossain/) | [GitHub](https://github.com/smile-plzz) | [LinkedIn](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/) | [Facebook](https://www.facebook.com/optimisticyetpessimist/)  
 **Discipline:** Game Studies, Media Studies, Narrative Theory, Moral Philosophy, Cultural Studies  
 **Standard:** APA 7th Edition  
 **Target Manuscript Length:** 7,000–9,000 words (excluding References and Appendices)  

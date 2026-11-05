@@ -24,3 +24,8 @@
 - Authored `references.bib` with complete BibTeX entries.
 - Created `00_PROJECT_README.md` master deliverables index.
 - All Stage 1 preconditions verified. Advancing to Stage 2 (`academic-paper` full drafting).
+
+## 2026-11-06 — Author Attribution & Profile Integration
+- Replaced generic research agent placeholders with authentic author details for Md. Ismail Hossain (Institute of Information Technology, Jahangirnagar University).
+- Integrated contact information and profile links (LinkedIn, GitHub, Facebook, Email, Portfolio) across README.md, context.md, 00_PROJECT_README.md, and 08_FULL_RESEARCH_PAPER.md.
+

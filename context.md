@@ -1,7 +1,9 @@
 # Project Context & Scope
 
 ## Academic Investigation
-**Title:** Do You Feel Like a Hero Yet? Narrative Deception, Moral Complicity, Psychological Deterioration, and the Ethics of Play in Spec Ops: The Line
+**Title:** Do You Feel Like a Hero Yet? Narrative Deception, Moral Complicity, Psychological Deterioration, and the Ethics of Play in Spec Ops: The Line  
+**Author:** Md. Ismail Hossain (Institute of Information Technology, Jahangirnagar University, Dhaka, Bangladesh)  
+**Contact:** ismailhossain013@gmail.com | [Portfolio](https://smile-plzz.github.io/Ismail_Hossain/) | [GitHub](https://github.com/smile-plzz) | [LinkedIn](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/) | [Facebook](https://www.facebook.com/optimisticyetpessimist/)
 
 ### Research Scope & Constraints
 - **Subject:** *Spec Ops: The Line* (2012), developed by Yager Development, published by 2K Games. Written by Walt Williams and Richard Pearsey; lead design by Cory Davis.

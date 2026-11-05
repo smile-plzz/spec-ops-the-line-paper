@@ -1,6 +1,7 @@
 # Project Master Index: Spec Ops: The Line Academic Investigation
 
 **Project:** Do You Feel Like a Hero Yet? Narrative Deception, Moral Complicity, Psychological Deterioration, and the Ethics of Play in *Spec Ops: The Line*  
+**Author:** Md. Ismail Hossain ([GitHub](https://github.com/smile-plzz) | [LinkedIn](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/) | [Portfolio](https://smile-plzz.github.io/Ismail_Hossain/))  
 **Repository Working Directory:** `research/spec-ops-the-line/`  
 **Pipeline Framework:** Academic Research Skills (ARS v3.24.1)  
 **Status:** Stage 1 (`deep-research`) Complete; Advancing to Stage 2 (`academic-paper`)  
